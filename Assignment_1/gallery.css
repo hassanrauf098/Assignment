@@ -1,0 +1,25 @@
+body{
+    background-color: wheat;
+}
+#title{
+    text-align: center;
+    background-color: honeydew;
+}
+#img{
+    margin-left: 1px;
+    padding: 20px;
+    height: 400px;
+    width: 400px; 
+}
+#adress{
+    text-decoration:underline maroon;
+    text-align: center;  
+    /* background-color: wheat;   */
+    background: darkkhaki;
+    }
+.ending{
+    text-align: center;
+}
+#ending{
+    padding: 10px;
+}

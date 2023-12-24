@@ -1,0 +1,54 @@
+body{
+    background-color: wheat;
+}
+#title1 {
+    text-align: center;
+    background-color:springgreen;
+    color:black;
+ }
+.ordernow{
+    text-align: center;
+    height: 70px;
+    width: 350px;
+    background-color: black;
+    /* border: 100px dashed black; */
+    border-radius: 50px;
+    color: darkgoldenrod;
+    display:inline-block;
+    margin-left: 500px;
+    border: dashed ;
+}
+
+#location{
+    text-align: center;
+    font-size: larger;
+}
+    
+#img1{
+    margin-left: 250px;
+    height: 400px; 
+    width: 400px;
+}
+#img2{
+    margin-left: 50px;
+    height: 400px; 
+    width: 400px;
+    
+}
+/* .location{
+    height: 100px;
+    width: 100px;
+    background-color:aqua;
+    border: 200px dashed black;
+    text-align: center ;
+    border-radius: 5px;
+    color:black;
+    display: inline-block;
+} */
+.ending{
+    text-align: center;
+
+}
+#ending{
+    padding: 10px;
+}

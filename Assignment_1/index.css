@@ -1,0 +1,58 @@
+body{
+    background-color:seagreen
+ }
+#title1 {
+    text-align: center;
+    background-color:honeydew;
+    color:black;
+ }
+#intro {
+    text-align: center;
+}
+#logo{
+    margin-left: 500px;
+    height: 400px;
+    width: 400px;
+}
+#title2{
+    text-align: center;
+}
+#logo2{
+    margin-left: 250px;
+    height: 400px;
+    width: 400px;
+}
+#logo3{
+    margin-inline: 30px;
+    height: 400px;
+    width: 400px;
+}
+#logo4{
+    margin-left: 100px;
+    height: 300px;
+    width: 300px;
+}
+#logo5{
+    margin-left: 100px;
+    height: 300px;
+    width: 300px;
+}
+#logo6{
+    margin-left: 100px;
+    height: 300px;
+    width: 300px;
+}
+#adress{
+text-decoration:underline maroon;
+text-align: center;  
+/* background-color: wheat;   */
+background: darkkhaki;
+}
+.ending{
+    text-align: center;
+    /* background:turquoise; */
+    /* color: black; */
+}
+#ending{
+    padding: 10px;
+}

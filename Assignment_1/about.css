@@ -1,0 +1,33 @@
+body{
+    background-color: indianred;
+}
+#title{
+    text-align: center;
+    background-color: honeydew;
+
+}
+#aboutus{
+    text-align: center;
+    font-size: x-large;
+}
+#para{
+    text-align: center;
+    font-size:medium;
+}
+#img{
+    height: 300px;
+    width: 300px;
+    margin-left: 520px;
+}
+#adress{
+    text-decoration:underline maroon;
+    text-align: center;  
+    /* background-color: wheat;   */
+    background: darkkhaki;
+    }
+.ending{
+    text-align: center;
+}
+#ending{
+    padding: 10px;
+}
